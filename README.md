@@ -20,9 +20,9 @@ Team:
 
 - In the code folder, the files are as follows:
 
-a) "train_pix2pix.py" - used for training
+-- "train_pix2pix.py" - used for training
 
-b) "dataset_compress.py" - used to get the dataset into .npz format before feeding it into the network.
+-- "dataset_compress.py" - used to get the dataset into .npz format before feeding it into the network.
 
 c) "mtcnn_crop.py" - used to perform tight cropping of the face images using mtcnn algorithm.
 
