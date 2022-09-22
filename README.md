@@ -32,11 +32,11 @@ Team:
 
 4. To execute the code:
 
-a) First compress the dataset using the "dataset_compress.py" file
+- First compress the dataset using the "dataset_compress.py" file
 
-b) Change the path to this dataset in the "train_pix2pix.py" file
+- Change the path to this dataset in the "train_pix2pix.py" file
 
-c) Run the command "python3 train_pix2pix.py"
+- Run the command "python3 train_pix2pix.py"
 
-d) The weights are saved after every 10 epochs, which can be used for inference using the predict funtion.
+- The weights are saved after every 10 epochs, which can be used for inference using the predict funtion.
 
