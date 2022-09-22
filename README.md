@@ -26,9 +26,9 @@ Team:
 
 - "mtcnn_crop.py" - used to perform tight cropping of the face images using mtcnn algorithm.
 
-d) "patch_creation.py" - used to draw patches of various shapes, sizes, textures and colours. 
+- "patch_creation.py" - used to draw patches of various shapes, sizes, textures and colours. 
 
-e) "textures" - This folder contains the textures that are randomly selected while filling the generated patch on the face image.
+- "textures" - This folder contains the textures that are randomly selected while filling the generated patch on the face image.
 
 4. To execute the code:
 
