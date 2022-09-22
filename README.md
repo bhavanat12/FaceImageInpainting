@@ -14,17 +14,17 @@ Team:
 
 ## Instructions:
 
-- The Slides folder contains the presentation for second evaluation both in .pptx and .pdf format.
+1. The Slides folder contains the presentation for second evaluation both in .pptx and .pdf format.
 
-- The lib folder contains the scripts necessary for incorporating attention mechanism to Pix2Pix GAN. The files and functions from this folder are imported into the training file present in the code directory.
+2. The lib folder contains the scripts necessary for incorporating attention mechanism to Pix2Pix GAN. The files and functions from this folder are imported into the training file present in the code directory.
 
-- In the code folder, the files are as follows:
+3. In the code folder, the files are as follows:
 
--- "train_pix2pix.py" - used for training
+- "train_pix2pix.py" - used for training
 
--- "dataset_compress.py" - used to get the dataset into .npz format before feeding it into the network.
+- "dataset_compress.py" - used to get the dataset into .npz format before feeding it into the network.
 
-c) "mtcnn_crop.py" - used to perform tight cropping of the face images using mtcnn algorithm.
+- "mtcnn_crop.py" - used to perform tight cropping of the face images using mtcnn algorithm.
 
 d) "patch_creation.py" - used to draw patches of various shapes, sizes, textures and colours. 
 
