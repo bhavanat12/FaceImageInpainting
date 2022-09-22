@@ -1,4 +1,4 @@
-Project name: "Face Image inpainting using GANs"
+# Project name: "Face Image inpainting using GANs"
 
 Guide: Dr. Himangshu Sarma
 
@@ -12,14 +12,13 @@ Team:
 
 
 
-Instructions:
+## Instructions:
 
+- The Slides folder contains the presentation for second evaluation both in .pptx and .pdf format.
 
-1. The Slides folder contains the presentation for second evaluation both in .pptx and .pdf format.
+- The lib folder contains the scripts necessary for incorporating attention mechanism to Pix2Pix GAN. The files and functions from this folder are imported into the training file present in the code directory.
 
-2. The lib folder contains the scripts necessary for incorporating attention mechanism to Pix2Pix GAN. The files and functions from this folder are imported into the training file present in the code directory.
-
-3. In the code folder, the files are as follows:
+- In the code folder, the files are as follows:
 
 a) "train_pix2pix.py" - used for training
 
